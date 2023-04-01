@@ -47,13 +47,13 @@ To run the Jupyter Notebook and Python scripts in this repository, you need to h
 
 #### Installation
 1. Clone the repo
-git clone https://github.com/your_username/healthcare-insurance-data-analysis.git
+git clone amudd10/Chronic-Condition-Management-Cost-Reduction-Analysis.git
 
 2. Install the required packages (if not already installed)
-pip install pandas numpy matplotlib seaborn geopandas scikit-learn
+pip install pandas numpy matplotlib seaborn geopandas 
 
 #### Usage
-Open the Jupyter Notebook file (healthcare_insurance_data_analysis.ipynb) in the repository and follow the steps to perform the data analysis. You can also refer to the Python scripts provided for specific parts of the analysis.
+Open the Jupyter Notebook file (diabetes-hypertension_cost-reduce.ipynbb) in the repository and follow the steps to perform the data analysis. You can also refer to the Python scripts provided for specific parts of the analysis.
 
 ### Results
 The analysis provides insights into the relationship between average submitted charges and Medicare payment amounts, geographical variations in charges and payments, and domain-specific trends related to diabetes and hypertension. Visualizations, such as histograms, choropleth maps, and box plots, are included to help communicate the findings effectively.
